@@ -1,4 +1,4 @@
-# Plagiarism Project, Machine Learning Deployment
+# Plagiarism Project, Machine Learning Deployment (Udacity Machine Learning Engineer)
 
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
